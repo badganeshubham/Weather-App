@@ -4,7 +4,7 @@ A React-based weather application that displays live weather data for any city u
 
 ---
 
-## 🚀 Features
+##  Features
 - Search for real-time weather by city name  
 - Displays temperature, wind speed & direction  
 - Fully responsive, modern UI  
@@ -13,7 +13,7 @@ A React-based weather application that displays live weather data for any city u
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 - **React.js (Hooks)**
 - **CSS3 (Glassmorphic + gradient UI)**
 - **Open-Meteo API**
@@ -29,13 +29,13 @@ A React-based weather application that displays live weather data for any city u
 |------|-----|
 | **Live App** | [https://3fgfy5-3000.csb.app](https://3fgfy5-3000.csb.app) |
 | **GitHub Repository** | [https://github.com/badganeshubham/Weather-App](https://github.com/badganeshubham/Weather-App) |
-| **Video Demonstration** | [https://drive.google.com/file/YOUR_VIDEO_ID/view](https://drive.google.com/file/YOUR_VIDEO_ID/view) |
+| **Video Demonstration** | [https://drive.google.com/file/YOUR_VIDEO_ID/view](https://drive.google.com/file/d/1q4MTdPmBFDxPLDRrYu-Tk4l4iK0u0qnd/view?usp=drivesdk) |
 | **ChatGPT Discussion** | [https://chatgpt.com/share/69020562-a0ac-8003-bca0-5831b55cc04a](https://chatgpt.com/share/69020562-a0ac-8003-bca0-5831b55cc04a) |
 
 
 ---
 
-## ⚙️ Run Locally
+##  Run Locally
 ```bash
 npm install
 npm start
